@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>nuxavtug@cbobk.pbz</string>
+	<key>contactName</key>
+	<string>Adam Knight</string>
+	<key>description</key>
+	<string>mandoc syntax and editing.
+</string>
+	<key>name</key>
+	<string>mdoc</string>
+	<key>uuid</key>
+	<string>3A7D70AF-A7D1-42D5-9F73-0B1506DDB2D7</string>
+</dict>
+</plist>
